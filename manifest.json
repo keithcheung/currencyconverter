@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+
+	"name": "Currency Change",
+	"description": "This extension is to make quick conversions from one currency to another currency.",
+	"version": "1.0",
+	"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html",
+		"default_title": "Calculation"
+	}
+
+
+}

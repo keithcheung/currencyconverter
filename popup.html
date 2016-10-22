@@ -1,0 +1,59 @@
+<!--
+Author: Keith Cheung
+Project: Currency Exchanger
+
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Converting Currency</title>
+	<style>
+		html {
+
+		}
+		body {
+			font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+			font-size: 12px;
+			margin: 10px;
+			padding: 10px;
+			width: 250px;
+			background-color: #eedab3;
+
+		}
+		p {
+			font-size: 16px;
+		}
+		.header {
+			height: 75px;
+			width: 200px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+
+	</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="popup.js"></script>
+
+	</head>
+	<body>
+	<img src="header.png" alt ="currency-logo" class="header">
+	<p style = "font-size: 12px"><strong>Disclaimer:</strong> Please keep in mind that these numbers are only approximate conversion as the currency rates are only updated daily.</p>
+	<h4> Amount: <input type="number" class = "price"> </h3>
+	<div>
+		<select class = "currency option1" style = "display:inline-block">
+		</select>
+
+		<p style="display:inline-block"> to </p>
+
+		<select class = "currency option2" style = "display:inline-block">
+		</select>
+	</div>
+	<button style="display:block"  id="convert">Convert</button>
+	<!--<button style="display:inline-block">USD to CAD</button>-->
+
+
+	<p class="main-statement">Press the button!</p>
+	</body>
+</html>
