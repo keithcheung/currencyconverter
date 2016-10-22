@@ -1,4 +1,4 @@
-# currencyconverter
+# Currency Converter
 A google chrome extension that uses currency rates that are updated daily to convert a value that is given by the user. 
 <br>
 If you'd like to use this chrone extension, go ahead and click on the 'Clone or Download' button for the zip file.
