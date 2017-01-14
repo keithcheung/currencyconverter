@@ -14,5 +14,7 @@ Here, just go ahead and click 'Load unpacked extension' and just select the dire
 Thanks for checking my currency converter out and I hope you find it useful.
 <br>
 <br>
-![alt tag]("https://gyazo.com/75e6beb148832d7966d94ede18fd6dfd")
-- k.c.
+![alt tag](https://gyazo.com/75e6beb148832d7966d94ede18fd6dfd)
+<br>
+<br>
+Keith
